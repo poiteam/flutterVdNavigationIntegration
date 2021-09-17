@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="locationPermissionDeniedTitle">Konum izni yok</string>
+    <string name="locationPermissionDeniedDescription">Uygulamayı kullanabilmeniz için Konum izinlerini vermeniz gerekmektedir.</string>
+    <string name="ok">OK</string>
+    <string name="locationServicesAreDisabledTitle">Konum Servisleriniz Kapalı</string>
+    <string name="locationServicesAreDisabledDescription">Uygulamayı kullanabilmeniz için Konum Servisinin açık olması gerekmektedir.</string>
+    <string name="bluetoothDisabledTitle">Bluetooth Kapalı</string>
+    <string name="bluetoothDisabledDescription">Uygulamayı kullanabilmeniz için Bluetooth Servisinin açık olması gerekmektedir.</string>
+    <string name="bluetoothNeededForThisApplication">Bu uygulamanın çalışması için Bluetooth özelliğne ihtiyacı var</string>
+
+
+</resources>
