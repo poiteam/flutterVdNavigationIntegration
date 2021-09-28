@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.9.1)
+  - PESGraph (0.2.1)
+  - PoilabsVdNavigation (3.0.7):
+    - Alamofire (~> 4.9.1)
+    - PESGraph
+  - SwiftOverlays (5.0.1)
+
+DEPENDENCIES:
+  - PoilabsVdNavigation (~> 3.0.7)
+  - SwiftOverlays
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - PESGraph
+    - PoilabsVdNavigation
+    - SwiftOverlays
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  PESGraph: 679c7d032cf46d3979214d8584ae70062aa4277d
+  PoilabsVdNavigation: 62b64cee56007ed210d6d87a1e096b4b2e00b63a
+  SwiftOverlays: ab459ea9194b0e96aaccaa00e9ead1bf6d46eef1
+
+PODFILE CHECKSUM: 86a6ecec9b6c30cf39c0b1a64fde0fa0e044a0e2
+
+COCOAPODS: 1.10.1

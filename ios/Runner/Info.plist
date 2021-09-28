@@ -10,6 +10,18 @@
 	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
+    <key>NSBluetoothAlwaysUsageDescription</key>
+    <string>Kapalı alanlarda navigasyon ve yön bulma servislerini kullanabilmek için bluetooth izinlerini vermeniz gerekiyor.</string>
+    <key>NSBluetoothPeripheralUsageDescription</key>
+    <string>Kapalı alanlarda navigasyon ve yön bulma servislerini kullanabilmek için bluetooth izinlerini vermeniz gerekiyor.</string>
+    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+    <string>Kapalı alanlarda navigasyon ve yön bulma servislerini kullanabilmek için konum izinlerini vermeniz gerekiyor</string>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>Kapalı alanlarda navigasyon ve yön bulma servislerini kullanabilmek için konum izinlerini vermeniz gerekiyor.</string>
+    <key>NSLocationUsageDescription</key>
+    <string>Kapalı alanlarda navigasyon ve yön bulma servislerini kullanabilmek için konum izinlerini vermeniz gerekiyor</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>Kapalı alanlarda navigasyon ve yön bulma servislerini kullanabilmek için konum izinlerini vermeniz gerekiyor</string>
 	<key>CFBundleName</key>
 	<string>vd_navigation_implementation</string>
 	<key>CFBundlePackageType</key>
