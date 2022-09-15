@@ -33,6 +33,7 @@ class NavigationActivity : AppCompatActivity() {
             BuildConfig.APPSECRET,
             localeLanguage,
             "App name",
+            null,
             object :
                 VDResponseListener {
                 override fun onSuccess() {
